@@ -1,0 +1,28 @@
+{
+	"name": "@allindevelopers/prettier-config",
+	"version": "0.0.0",
+	"description": "@allindevelopers and @iamandrewluca personal prettier config",
+	"main": "index.json",
+	"scripts": {
+		"test": "echo \"There are no tests\" && exit 0",
+		"format": "npx prettier --config index.json --write '**/*.{json,md}'"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/allindevelopers/prettier-config.git"
+	},
+	"keywords": [
+		"prettier",
+		"config",
+		"prettier-config"
+	],
+	"author": "Andrew Luca (https://iamandrewluca.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/allindevelopers/prettier-config/issues"
+	},
+	"homepage": "https://github.com/allindevelopers/prettier-config#readme",
+	"publishConfig": {
+		"access": "public"
+	}
+}
