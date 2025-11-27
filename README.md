@@ -1,6 +1,6 @@
 # `@allindevelopers/prettier-config`
 
-[@allindevelopers](https://github.com/allindevelopers) and [@iamandrewluca](https://github.com/iamandrewluca) personal prettier config
+[@allindevelopers](https://github.com/allindevelopers) prettier config
 
 ## Usage
 
